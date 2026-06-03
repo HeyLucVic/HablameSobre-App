@@ -1,0 +1,17 @@
+.env
+
+historias/
+
+documentos/
+
+datos/
+
+app v2.py
+
+__pycache__/
+
+*.mp3
+
+*.wav
+
+*.txt
