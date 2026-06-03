@@ -8,6 +8,14 @@ datos/
 
 app v2.py
 
+*.txt
+
+__pycache__/
+
+.streamlit/
+
+historias/
+
 __pycache__/
 
 *.mp3
